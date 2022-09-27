@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Rock Paper Scissors Game [Live Link](https://name-conversion-js.netlify.app/)
+## Rock Paper Scissors Game [Live Link](https://rockpaperscissorsgamejs.netlify.app/)
 
 - Skills Gained in this project
 
@@ -26,4 +26,4 @@
 
 #### Screenshot
 
-![Desktop](./Image/js-15.png)
+![Desktop](./Images/rpsgame.png)
